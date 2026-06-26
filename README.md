@@ -2,4 +2,4 @@
 
 [freeCodeCamp.org](https://www.freecodecamp.org/learn) ➡️ Responsive Web Design Certification ➡️ HTML ➡️ Basic HTML ➡️ Build A Curriculum Online
 
-<img width="1874" height="694" alt="image" src="https://github.com/user-attachments/assets/d5dca238-8b58-4bfb-ab14-17f187e693d7" />
+<img width="1861" height="768" alt="image" src="https://github.com/user-attachments/assets/58a31469-ffa4-40a6-bc83-62258aee332f" />
